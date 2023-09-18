@@ -6,7 +6,7 @@
 *RP N
 
 # Radio Frequency (1 to 10), must match controller frequency
-# Frequencies 5 to 10 are reccomended as are they above wifi
+# Frequencies 5 to 10 are recommended as are they above wifi
 *RF 5
 
 # Servo parameters
@@ -98,13 +98,13 @@
 
 # Jaw Gain pot enable, E=Enabled N=Not enabled
 #  pot R9 on sound board adjusts jaw servo gain if enabled (E)
-#  Jaw gain is fixed if not elabled (N)
+#  Jaw gain is fixed if not enabled (N)
 *AG E
 
 # External audio input enable, E=Enabled N=Not enabled
 #  uses the audio source connected to the audio in jack for jaw motion
 #  jaw motion is controlled by Audio Clip 2 from the internal MP3
-#  player if not elabled (N)
+#  player if not enabled (N)
 *AX N
 
 # End of file
